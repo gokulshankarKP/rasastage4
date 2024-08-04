@@ -1,0 +1,236 @@
+version: "3.1"
+
+slots:
+  age:
+    type: text
+  weight:
+    type: text
+  height:
+    type: text
+  gender:
+    type: text
+  lactose_intolerant:
+    type: bool
+  location:
+    type: text
+  food_category:
+    type: text
+  age_is_valid:
+    type: bool
+    mappings: 
+      - type: custom
+  recommended_recipe:
+    type: text
+    mappings: 
+      - type: custom
+  rephrased_recipe:
+    type: text
+    mappings: 
+      - type: custom
+  user_said_goodbye:
+    type: bool
+    mappings:  
+      - type: custom
+  another_recipe:
+    type: text
+    mappings: 
+      - type: custom
+  any_question:
+    type: text
+  no_of_days:
+    type: text
+  age_certaindays:
+    type: text 
+  weight_certaindays:
+    type: text 
+  height_certaindays:
+    type: text
+  lactose_intolerant_certaindays:
+    type: bool   
+
+
+
+
+  certaindays_output:
+    type: text
+    mappings:
+      - type: custom
+
+  # audiofile:
+  #   type: text
+  #   mappings:
+  #     - type: custom
+
+  
+  certaindays_another_recipe:
+    type: text
+    mappings:
+      - type: custom
+  any_question_certaindays:
+    type: text
+  user_said_goodbye_certaindays:
+    type: bool
+    mappings:
+      - type: custom
+
+
+
+responses:
+  utter_welcome:
+    - text: "Hey there! How can I help you today?"
+      metadata:
+        rephrase: true
+
+  utter_ask_age:
+    - text: "Please provide the child's age."
+      # metadata:
+      #   rephrase: true
+        
+  utter_invalid_age:
+    - text: "The age entered is invalid"
+      metadata:
+        rephrase: true
+
+  utter_ask_weight:
+    - text: "Could you please specify your weight?"
+      metadata:
+        rephrase: true
+
+  utter_ask_height:
+    - text: "Could you please specify your height?"
+      metadata:
+        rephrase: true
+
+  utter_ask_gender:
+    - text: "Could you please specify your gender?"
+      buttons:
+        - title: "Male"
+          payload: "Male"
+        - title: "Female"
+          payload: "Female"
+      metadata:
+        rephrase: true
+
+  utter_ask_lactose_intolerant:
+    - text: "Could you let us know whether the child is intolerant to lactose?"
+      buttons:
+        - title: "Yes"
+          payload: "Yes"
+        - title: "No"
+          payload: "No"
+      metadata:
+        rephrase: true
+
+  utter_ask_location:
+    - text: "Could you let us know your location?"
+      metadata:
+        rephrase: true
+  # utter_audio_output:
+  #   - custom:
+  #       attachment:
+  #         type: "audio"
+  #         payload:
+  #           src: "{audiofile}"
+          
+
+
+        
+  utter_ask_food_category:
+    - text: "What type of meal or drink are you interested in?"
+      buttons:
+        - title: "Breakfast"
+          payload: "Breakfast"
+        - title: "Earlymorning"
+          payload: "Earlymorning"
+        - title: "Eveningsnacks"
+          payload: "Eveningsnacks"
+        - title: "Midmorning"
+          payload: "Midmorning"
+        - title: "Dinner"
+          payload: "Dinner"
+        - title: "Lunch"
+          payload: "Lunch"
+        - title: "Beverages"
+          payload: "Beverages"
+      metadata:
+        rephrase: true
+
+  utter_recommended_recipe:
+    - text: "{recommended_recipe}"
+
+  utter_ask_any_question:
+    - text: "Is there anything else you need help with?"
+      metadata:
+        rephrase: true
+
+  utter_anyother_question_response:
+    - text: "{another_recipe}"
+  
+  utter_goodbye:
+    - text: "Bye, TakeCare Your Health"
+      metadata:
+        rephrase: true
+  utter_ask_no_of_days:
+    - text: "How many days of food do you require?"
+      metadata:
+        rephrase: true
+
+  utter_ask_age_certaindays:
+    - text: "Could you please provide your age for the meal plan?"
+      metadata:
+        rephrase: true
+  utter_ask_weight_certaindays:
+    - text: "Could you please provide your weight for the meal plan??"
+      metadata:
+        rephrase: true
+  utter_ask_height_certaindays:
+    - text: "Could you please provide your height for the meal plan?"
+      metadata:
+        rephrase: true
+  utter_ask_lactose_intolerant_certaindays:
+    - text: "Can you provide information about lactose for the meal plan??"
+      buttons:
+        - title: "Yes"
+          payload: "Yes"
+        - title: "No"
+          payload: "No"
+      metadata:
+        rephrase: true
+
+
+  utter_goodbye_certaindays:
+      - text: "Bye , TakeCare Your Health"
+        metadata:
+          rephrase: true
+
+
+  utter_certaindays_output:
+    - text: "{certaindays_output}"
+      metadata:
+        rephrase: true
+
+  utter_ask_any_question_certaindays:
+    - text: "Are there any other questions regarding the above meal plan?"
+
+  utter_certaindays_question_response:
+    - text: "{certaindays_another_recipe}"
+
+
+
+actions:
+  - action_check_age
+  - action_get_recipe
+  - action_check_goodbye
+  - action_handle_fallback_question
+  - action_certaindays_plan
+  - action_certaindays_fallback_question
+  - action_check_goodbye_certaindays
+  # - action_audio_convert
+  # - action_provide_audio_link
+#  - action_utter_audio_output
+
+
+
+session_config:
+  session_expiration_time: 30 # value in minutes, 0 means infinitely long
+  carry_over_slots_to_new_session: false  # set to false to forget slots between sessions

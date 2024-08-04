@@ -1,0 +1,729 @@
+input,response
+can you suggest food for {certaindays_output} days and age {age} and height {height} and lactose intolerace {lactose_intolerant}?,"Sure! Here’s a 7-day meal plan for your 2-year-old child, ensuring a variety of recipes without repetition. Each day includes breakfast, lunch, snacks, and dinner.
+
+### Day 1
+**Breakfast: Tofu Chikoo Smoothie**  
+*Description:* A creamy, fruit-flavored protein drink made at home with simple kitchen ingredients. A perfect breakfast or post-workout beverage.  
+*Ingredients:*  
+- Chickoo: 1/2 Diced Cup (37.27 gm)  
+- Soy Milk: 1/2 Cup (104.08 ml)  
+- Tofu: 2 Grated Tbsp (14.72 gm)  
+- Honey: 1 Tsp (10.92 gm)  
+
+---
+
+**Lunch: Cucumber Corn Raita**  
+*Description:* A creamy yogurt-based side dish that can be served alongside any meal.  
+*Ingredients:*  
+- Cucumber: 2.5 Grated Tbsp (47.0 gm)  
+- Sweet Corn: 2.0 Tbsp (21.1 gm)  
+- Nestlé A+ Curd: 3.0 Tbsp (42.87 gm)  
+- Salt: 1/8 Tsp (0.54 gm)  
+
+---
+
+**Snacks: Cheesy Vegetable Roll**  
+*Description:* A delicious roll filled with assorted vegetables and cheese, perfect for a quick snack.  
+
+---
+
+**Dinner: Spinach Paneer Raita**  
+*Description:* A tasty raita made with spinach and paneer, enhancing health and wellness.  
+*Ingredients:*  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Spinach: 1/4 Chopped Cup (13.525 gm)  
+- Paneer: 2 Grated Tbsp (50.65 gm)  
+- Tomato: 1 Chopped Tbsp (12.57 gm)  
+- Onion: 1 Chopped Tbsp (8.02 gm)  
+
+---
+
+### Day 2
+**Breakfast: Banana Smoothie**  
+*Description:* A refreshing drink made by blending ripe bananas with Nestlé A+ Curd.  
+*Ingredients:*  
+- Nestlé A+ Curd: 1/2 Cup (120.51 gm)  
+- Banana: 1/4 Chopped Cup (46.645 gm)  
+- Honey: 1 Tsp (10.92 gm)  
+
+---
+
+**Lunch: Beetroot Raita**  
+*Description:* A vibrant and nourishing side dish made with beetroot and Nestlé A+ Curd.  
+*Ingredients:*  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Nestlé A+ Curd: 5.0 Tbsp (71.45 gm)  
+- Salt: 1/8 Tsp (0.56 gm)  
+
+---
+
+**Snacks: Apple Cheese Sandwich**  
+*Description:* A delightful blend of crisp apple slices and cheese layered between slices of bread.  
+
+---
+
+**Dinner: Methi Corn Raita**  
+*Description:* A tasty raita made with fenugreek and sweet corn, served with any meal.  
+*Ingredients:*  
+- Sweet Corn: 1 Boiled Tbsp (11.98 gm)  
+- Methi Leaves: 1/8 Chopped Cup (12.805 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Salt: 1/8 Tsp (0.54 gm)  
+
+---
+
+### Day 3
+**Breakfast: Mango Banana Smoothie**  
+*Description:* A creamy beverage made from mango, banana, and Nestlé A+ Curd.  
+*Ingredients:*  
+- Mango: 1/4 Chopped Cup (49.4 gm)  
+- Banana: 1/4 Chopped Cup (35.56 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+---
+
+**Lunch: Cucumber Tomato Onion Salad**  
+*Description:* A refreshing summer salad made with staple kitchen vegetables.  
+*Ingredients:*  
+- Tomato: 1/4 Chopped Cup (38.95 gm)  
+- Cucumber: 1/4 Chopped Cup (39.275 gm)  
+- Onion: 1/4 Chopped Cup (28.47 gm)  
+- Lemon Juice: 1 Tsp (4.08 ml)  
+- Salt: 1/4 Tsp (1.115 gm)  
+
+---
+
+**Snacks: Peanut Butter Banana Sandwich**  
+*Description:* A quick and delicious sandwich made with ripe bananas and peanut butter.  
+
+---
+
+**Dinner: Zucchini Corn Raita**  
+*Description:* A refreshing yogurt-based dish that combines zucchini and sweet corn.  
+*Ingredients:*  
+- Green Zucchini: 2 Grated Tbsp (17.74 gm)  
+- Sweet Corn: 1 Tbsp (10.55 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+---
+
+### Day 4
+**Breakfast: Avocado Mint Smoothie**  
+*Description:* A nutritious smoothie made with avocado and mint, perfect for a refreshing start.  
+*Ingredients:*  
+- Avocado: 1/4 Chopped Cup (39.4175 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Honey: 1 Tbsp (10.92 gm)  
+
+---
+
+**Lunch: Pomegranate Raita**  
+*Description:* A delightful raita made with pomegranate and Nestlé A+ Curd.  
+*Ingredients:*  
+- Pomegranate: 2 Tbsp (21.64 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Black Salt: 1/8 Tsp (0.62 gm)  
+
+---
+
+**Snacks: Minty Mango Salad**  
+*Description:* A refreshing salad made with mangoes and mint, perfect for a light snack.  
+
+---
+
+**Dinner: Beetroot Carrot Raita**  
+*Description:* A colorful raita made with beetroot and carrots, served with any meal.  
+*Ingredients:*  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Carrot: 1.5 Grated Tbsp (14.1 gm)  
+- Nestlé A+ Curd: 5.0 Tbsp (71.45 gm)  
+
+---
+
+### Day 5
+**Breakfast: Kiwi Pear Carrot Shake**  
+*Description:* A creamy shake made with kiwi, pear, and carrot, perfect for a nutritious start.  
+*Ingredients:*  
+- Kiwi: 1/4 Chopped Cup (37.86 gm)  
+- Pear: 1/4 Chopped Cup (39.4175 gm)  
+- Carrot: 1/4 Grated Cup (37.645 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+---
+
+**Lunch: Apple Mint Chia Raita**  
+*Description:* A refreshing raita made with apples, mint, and chia seeds.  
+*Ingredients:*  
+- Apple: 2 Grated Tbsp (31.88 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Chia Seeds: 1 Tsp (3.48 gm)  
+
+---
+
+**Snacks: Cucumber Boats**  
+*Description:* Crunchy cucumber halves filled with hung Nestlé A+ Curd and veggies.  
+
+---
+
+**Dinner: Spinach Paneer Raita**  
+*Description:* A tasty raita made with spinach and paneer, enhancing health and wellness.  
+*Ingredients:*  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Spinach: 1/4 Chopped Cup (13.525 gm)  
+- Paneer: 2 Grated Tbsp (50.65 gm)  
+
+---
+
+### Day 6
+**Breakfast: Peanut Butter Banana Smoothie**  
+*Description:* A delicious smoothie made with peanut butter and banana, perfect for a nutritious start.  
+*Ingredients:*  
+- Banana: 1/4 Chopped Cup (35.56 gm)  
+- Peanut Butter: 1 Tbsp (14.9 gm)  
+- Nestlé A+ Curd: 1/2 Cup (120.51 gm)  
+
+---
+
+**Lunch: Mango Raita**  
+*Description:* A refreshing raita made with mangoes and Nestlé A+ Curd.  
+*Ingredients:*  
+- Mango: 3 Chopped Tbsp (44.4 gm)  
+- Nestlé A+ Curd: 1/2 Cup (120.51 gm)  
+
+---
+
+**Snacks: Cheesy Vegetable Roll**  
+*Description:* A delicious roll filled with assorted vegetables and cheese, perfect for a quick snack.  
+
+---
+
+**Dinner: Cucumber Tomato Onion Salad**  
+*Description:* A refreshing salad made with cucumber, tomato, and onion, seasoned with herbs.  
+*Ingredients:*  
+- Cucumber: 1/4 Chopped Cup (39.275 gm)  
+- Tomato: 1/4 Chopped Cup (38.95 gm)  
+- Onion: 1/4 Chopped Cup (28.47 gm)  
+- Lemon Juice: 1 Tsp (4.08 ml)  
+
+---
+
+### Day 7
+**Breakfast: Mango Banana Smoothie**  
+*Description:* A creamy beverage made from mango, banana, and Nestlé A+ Curd.  
+*Ingredients:*  
+- Mango: 1/4 Chopped Cup (49.4 gm)  
+- Banana: 1/4 Chopped Cup (35.56 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+---
+
+**Lunch: Beetroot Raita**  
+*Description:* A vibrant and nourishing side dish made with beetroot and Nestlé A+ Curd.  
+*Ingredients:*  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Nestlé A+ Curd: 5.0 Tbsp (71.45 gm)  
+- Salt: 1/8 Tsp (0.56 gm)  
+
+---
+
+**Snacks: Apple Cheese Sandwich**  
+*Description:* A delightful blend of crisp apple slices and cheese layered between slices of bread.  
+
+---
+
+**Dinner: Zucchini Corn Raita**  
+*Description:* A refreshing yogurt-based dish that combines zucchini and sweet corn.  
+*Ingredients:*  
+- Green Zucchini: 2 Grated Tbsp (17.74 gm)  
+- Sweet Corn: 1 Tbsp (10.55 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+---
+
+This meal plan provides a variety of flavors and nutrients, ensuring your child enjoys a balanced diet throughout the week!"
+can you suggest food for {certaindays_output} days and age {age} and height {height} and lactose intolerace {lactose_intolerant}?,"Sure! Here’s a two-day meal plan for your child, including breakfast, lunch, dinner, and snacks, without repeating any recipes.
+
+### Day 1
+
+#### Breakfast
+**Recipe Name:** Tofu Chikoo Smoothie  
+**Description:** Tofu Chikoo Smoothie is a creamy, fruit-flavored protein drink made at home with simple kitchen ingredients. A perfect breakfast, evening, or post-workout beverage.  
+**Ingredients:**  
+- Chickoo: 1/2 Diced Cup (37.27 gm)  
+- Soy Milk: 1/2 Cup (104.08 ml)  
+- Tofu: 2 Grated Tbsp (14.72 gm)  
+- Honey: 1 Tsp (10.92 gm)  
+
+#### Lunch
+**Recipe Name:** Cucumber Corn Raita  
+**Description:** Cucumber Corn Raita is a creamy yogurt-based side dish that can be served alongside any dish. This soothing raita pairs best with biryanis or pulao.  
+**Ingredients:**  
+- Cucumber: 2.5 Grated Tbsp (47.0 gm)  
+- Sweet Corn: 2.0 Tbsp (21.1 gm)  
+- Nestlé A+ Curd: 3.0 Tbsp (42.87 gm)  
+- Salt: 0.13 Tsp (0.56 gm)  
+
+#### Snacks
+**Recipe Name:** Minty Watermelon Lemonade  
+**Description:** Minty Watermelon Lemonade is a nourishing drink that gives a slightly different tang to the regular lemonade and is a great way to add more fruit to one's diet. A perfect drink for the summers.  
+
+#### Dinner
+**Recipe Name:** Beetroot Raita  
+**Description:** Beetroot raita is a vibrant and nourishing side dish made with beetroot, Nestlé A+ Curd, spices, and seasonings. This raita can be served as a side dish or as a condiment with any meal.  
+**Ingredients:**  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Nestlé A+ Curd: 5.0 Tbsp (71.45 gm)  
+- Salt: 0.13 Tsp (0.56 gm)  
+
+---
+
+### Day 2
+
+#### Breakfast
+**Recipe Name:** Banana Smoothie  
+**Description:** Banana Smoothie is a delicious and nutritious drink made by blending ripe bananas with Nestlé A+ Curd. It's a quick and easy way to enjoy the natural sweetness of bananas and kickstart your day.  
+**Ingredients:**  
+- Nestlé A+ Curd: 1/3 Cup (79.5366 gm)  
+- Banana: 1/4 Slice Cup (41.0275 gm)  
+- Honey: 1.0 Tsp (10.92 gm)  
+
+#### Lunch
+**Recipe Name:** Apple Mint Chia Raita  
+**Description:** Apple Mint Chia Raita is a mildly sweet and naturally spiced dish with the flavor of beetroot. The addition of ingredients like chia seeds makes it tasty and refreshing.  
+**Ingredients:**  
+- Chia Seeds: 1 Tsp (3.48 gm)  
+- Pudina: 1 Chopped Tsp (0.76 gm)  
+- Apple: 2 Grated Tbsp (31.88 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+#### Snacks
+**Recipe Name:** Minty Mango Salad  
+**Description:** Minty Mango Salad is full of vibrant colors and is an ideal combination of fresh sweet tangy mangoes with the refreshing taste of mint. A healthy way to incorporate mango in a salad.  
+
+#### Dinner
+**Recipe Name:** Pomegranate Curry Leaves Raita  
+**Description:** Pomegranate curry leaves Raita is a tasty, flavorful raita made with Nestlé A+ Curd, pomegranate, and curry leaves, and goes with any meal.  
+**Ingredients:**  
+- Pomegranate: 2 Tbsp (21.64 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Curry Leaves: 1 Chopped Tsp (0.26 gm)  
+
+---
+
+This meal plan provides a variety of flavors and nutrients for your child while ensuring that the recipes are not repetitive. Enjoy!"
+can you suggest food for {certaindays_output} days and age {age} and height {height} and lactose intolerace {lactose_intolerant}?,"Here's a two-day meal plan for you, tailored for a child aged 2 years, with lactose-free suggestions and without repeating any recipes.
+
+### Day 1
+
+#### Breakfast
+**Recipe Name:** Tofu Chikoo Smoothie  
+**Description:** A creamy, fruit-flavored protein drink made at home with simple kitchen ingredients. A perfect breakfast beverage.  
+**Ingredients:**  
+- Chickoo: 1/2 Diced Cup (37.27 gm)  
+- Soy Milk: 1/2 Cup (104.08 ml)  
+- Tofu: 2 Grated Tbsp (14.72 gm)  
+- Honey: 1 Tsp (10.92 gm)  
+
+#### Lunch
+**Recipe Name:** Cucumber Corn Raita  
+**Description:** A creamy yogurt-based side dish that can be served alongside any dish.  
+**Ingredients:**  
+- Cucumber: 2.5 Grated Tbsp (47.0 gm)  
+- Sweet Corn: 2.0 Tbsp (21.1 gm)  
+- Nestlé A+ Curd: 3.0 Tbsp (42.87 gm)  
+- Salt: 0.13 Tsp (0.56 gm)  
+
+#### Snacks
+**Recipe Name:** Peanut Butter Banana Sandwich  
+**Description:** A quick and delicious sandwich made with ripe bananas and peanut butter.  
+**Ingredients:**  
+- White Bread: 2.0 3"" (42.02 gm)  
+- Peanut Butter: 2.0 Tsp (10.16 gm)  
+- Banana: 12.0 Slice (40.08 gm)  
+
+#### Dinner
+**Recipe Name:** Spinach Paneer Raita  
+**Description:** A tasty raita made with spinach and paneer, enhancing health and wellness.  
+**Ingredients:**  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Spinach: 1/4 Chopped Cup (13.525 gm)  
+- Paneer: 2 Grated Tbsp (50.65 gm)  
+- Tomato: 1 Chopped Tbsp (12.57 gm)  
+- Onion: 1 Chopped Tbsp (8.02 gm)  
+
+---
+
+### Day 2
+
+#### Breakfast
+**Recipe Name:** Banana Oats Smoothie  
+**Description:** A refreshing and nourishing drink packed with vital nutrients.  
+**Ingredients:**  
+- Banana: 1/4 Slice Cup (41.0275 gm)  
+- Oats: 1.0 Tbsp (8.21 gm)  
+- Nestlé A+ Curd: 1/2 Cup (120.51 gm)  
+- Honey: 1.0 Tsp (10.92 gm)  
+
+#### Lunch
+**Recipe Name:** Cucumber Tomato Onion Salad  
+**Description:** A refreshing summer salad made with staple kitchen vegetables.  
+**Ingredients:**  
+- Tomato: 1/4 Cup (38.95 gm)  
+- Cucumber: 1/4 Cup (39.275 gm)  
+- Onion: 1/4 Cup (28.47 gm)  
+- Lemon Juice: 1.0 Tsp (4.08 ml)  
+- Salt: 1/4 Tsp (1.115 gm)  
+
+#### Snacks
+**Recipe Name:** Minty Mango Salad  
+**Description:** A vibrant salad combining fresh mangoes with mint for a refreshing taste.  
+**Ingredients:**  
+- Mango: 1/4 Chopped Cup (49.4 gm)  
+- Orange Carrot: 1.0 Chopped Tbsp (9.35 gm)  
+- Lemon Juice: 1/2 Tsp (2.04 ml)  
+- Salt: 1/4 Tsp (1.115 gm)  
+
+#### Dinner
+**Recipe Name:** Beetroot Raita  
+**Description:** A vibrant and nutritious side dish made with beetroot and Nestlé A+ Curd.  
+**Ingredients:**  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Salt: 1/4 Tsp (1.115 gm)  
+
+---
+
+This meal plan provides a variety of flavors and nutrients while ensuring that the recipes are suitable for a lactose-free diet. Enjoy!"
+can you suggest recipe,"Sure! Here’s a two-day meal plan for your 2-year-old child, ensuring a variety of recipes without repetition. Each day includes breakfast, lunch, snacks, and dinner, along with the details of the recipes, ingredients, and nutrients.
+
+### Day 1
+
+#### Breakfast
+**Recipe Name:** Tofu Chikoo Smoothie  
+**Description:** A creamy, fruit-flavored protein drink made at home with simple kitchen ingredients. A perfect breakfast beverage.  
+**Ingredients:**  
+- Chickoo: 1/2 Diced Cup (37.27 gm)  
+- Soy Milk: 1/2 Cup (104.08 ml)  
+- Tofu: 2 Grated Tbsp (14.72 gm)  
+- Honey: 1 Tsp (10.92 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 16.84 gm  
+- Calories: 143 kcal  
+- Protein: 4.70 gm  
+- Fat: 1.43 gm  
+- Fiber: 3.61 gm  
+
+---
+
+#### Lunch
+**Recipe Name:** Cucumber Corn Raita  
+**Description:** A creamy yogurt-based side dish that can be served alongside any dish. This soothing raita pairs best with biryanis or pulao.  
+**Ingredients:**  
+- Cucumber: 2.5 Grated Tbsp (47.0 gm)  
+- Sweet Corn: 2.0 Tbsp (21.1 gm)  
+- Nestlé A+ Curd: 3.0 Tbsp (42.87 gm)  
+- Salt: 1/8 Tsp (0.54 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 5.01 gm  
+- Calories: 45 kcal  
+- Protein: 1.13 gm  
+- Fat: 1.48 gm  
+- Fiber: 1.40 gm  
+
+---
+
+#### Snacks
+**Recipe Name:** Minty Watermelon Lemonade  
+**Description:** A nourishing drink that gives a slightly different tang to the regular lemonade and is a great way to add more fruit to one's diet.  
+**Ingredients:**  
+- Watermelon: 1/2 Diced Cup (76.72 gm)  
+- Mint Leaves: 1 Tbsp (3.78 gm)  
+- Lemon Juice: 1 Tsp (4.08 ml)  
+- Honey: 2 Tsp (21.84 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 6.26 gm  
+- Calories: 33 kcal  
+- Protein: 0.95 gm  
+- Fat: 0.27 gm  
+- Fiber: 1.18 gm  
+
+---
+
+#### Dinner
+**Recipe Name:** Beetroot Raita  
+**Description:** A vibrant and nourishing side dish made with beetroot and Nestlé A+ Curd. This raita can be served as a side dish or as a condiment with any meal.  
+**Ingredients:**  
+- Beet Root: 1.5 Grated Tbsp (12.015 gm)  
+- Nestlé A+ Curd: 5.0 Tbsp (71.45 gm)  
+- Salt: 1/8 Tsp (0.56 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 3.67 gm  
+- Calories: 52 kcal  
+- Protein: 1.81 gm  
+- Fat: 2.87 gm  
+- Fiber: 0.99 gm  
+
+---
+
+### Day 2
+
+#### Breakfast
+**Recipe Name:** Banana Smoothie  
+**Description:** A delicious and nutritious drink made by blending ripe bananas with Nestlé A+ Curd. It's a quick and easy way to enjoy the natural sweetness of bananas and kickstart your day.  
+**Ingredients:**  
+- Nestlé A+ Curd: 1/3 Cup (79.5366 gm)  
+- Banana: 1/4 Slice Cup (41.0275 gm)  
+- Honey: 1.0 Tsp (10.92 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 21.47 gm  
+- Calories: 136 kcal  
+- Protein: 2.80 gm  
+- Fat: 3.96 gm  
+- Fiber: 0.73 gm  
+
+---
+
+#### Lunch
+**Recipe Name:** Apple Mint Chia Raita  
+**Description:** A mildly sweet and naturally spiced dish with the flavor of apple and mint. The addition of chia seeds makes it tasty and refreshing.  
+**Ingredients:**  
+- Chia Seeds: 1 Tsp (3.48 gm)  
+- Mint Leaves: 1 Chopped Tsp (0.76 gm)  
+- Apple: 2 Grated Tbsp (31.88 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 7.29 gm  
+- Calories: 71 kcal  
+- Protein: 2.07 gm  
+- Fat: 3.51 gm  
+- Fiber: 2.00 gm  
+
+---
+
+#### Snacks
+**Recipe Name:** Minty Mango Salad  
+**Description:** A vibrant salad combining fresh mangoes with mint for a refreshing taste.  
+**Ingredients:**  
+- Mango: 1/4 Chopped Cup (49.4 gm)  
+- Orange Carrot: 1.0 Chopped Tbsp (9.35 gm)  
+- Lemon Juice: 1/2 Tsp (2.04 ml)  
+- Salt: 1/4 Tsp (1.115 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 10.73 gm  
+- Calories: 56 kcal  
+- Protein: 0.60 gm  
+- Fat: 0.55 gm  
+- Fiber: 2.89 gm  
+
+---
+
+#### Dinner
+**Recipe Name:** Pomegranate Curry Leaves Raita  
+**Description:** A tasty, flavorful raita made with Nestlé A+ Curd, pomegranate, and curry leaves, and goes with any meal.  
+**Ingredients:**  
+- Pomegranate: 2 Tbsp (21.64 gm)  
+- Nestlé A+ Curd: 1/4 Cup (60.255 gm)  
+- Curry Leaves: 1 Chopped Tsp (0.26 gm)  
+
+**Nutrients Present:**  
+- Carbohydrates: 4.66 gm  
+- Calories: 52 kcal  
+- Protein: 1.98 gm  
+- Fat: 2.55 gm  
+- Fiber: 1.07 gm  
+
+---
+
+This meal plan provides a variety of flavors and nutrients, ensuring your child enjoys a balanced diet throughout the two days!"
+can you suggest food?,"Based on the provided data, a great recipe for a refreshing beverage that is suitable for a 2-year-old child and is lactose-free is the **""Watermelon Lemonade.""** Here are the details:
+
+### Recipe Name: Watermelon Lemonade
+
+#### Description:
+Watermelon lemonade is a tasty drink made from fresh watermelon and tangy lemons. It's a sweet and sour refreshing drink ready to enjoy, perfect for hot days.
+
+#### Ingredients:
+- **Watermelon:** 1 Diced Cup (153.44 gm)
+- **Sugar:** 1.5 Tbsp (12.98 gm)
+- **Lemon Juice:** 2 Tbsp (24.16 ml)
+- **Soda:** 1/2 Cup (104.17 gm)
+- **Black Salt:** 1/4 Tsp (1.29 gm)
+
+#### Steps:
+1. Take 1 cup of diced watermelon and add them in a food processor.
+2. Grind them smooth, adding water if required.
+3. Strain the juice.
+4. Add 2 tbsp lemon juice along with 1.5 tbsp sugar powder and 1/4 tsp black salt.
+5. Add 1/2 cup soda and stir well to dissolve the sugar.
+6. Serve chilled.
+
+#### Nutrients Present:
+- **Calories:** 49 kcal
+- **Carbohydrates:** 10.89 g
+- **Protein:** 0.54 g
+- **Fat:** 0.23 g
+- **Fibre:** 0.57 g
+
+This recipe is not only refreshing but also packed with nutrients, making it a healthy choice for your child. Enjoy!"
+can you suggest food?,"Based on the provided data, here is a selected recipe that is suitable for a 2-year-old child and is lactose-free:
+
+### Recipe Name: **Watermelon Lemon Juice**
+
+#### Description:
+Watermelon lemonade is a tasty drink made from fresh watermelon and tangy lemons. It's a sweet and sour refreshing drink ready to enjoy, perfect for hot days.
+
+#### Ingredients:
+- **Watermelon**: 1 Diced Cup (153.44 gm)
+- **Sugar**: 1.5 Tbsp (12.98 gm)
+- **Lemon Juice**: 2 Tbsp (24.16 ml)
+- **Black Salt**: 1/4 Tsp (1.29 gm)
+- **Soda**: 1/2 Cup (104.17 gm)
+
+#### Steps:
+1. Take 1 cup of diced watermelon and add them in a food processor.
+2. Grind them smooth, adding water if required.
+3. Strain the juice.
+4. Add 2 tbsp lemon juice along with 1 tbsp sugar powder and 1/4 tsp black salt.
+5. Add 1/2 cup soda and stir well to dissolve the sugar.
+6. Serve chilled.
+
+#### Nutrients Present:
+- **Calories**: 49 kcal
+- **Carbohydrates**: 10.89 gm
+- **Protein**: 0.54 gm
+- **Fat**: 0.23 gm
+- **Fibre**: 0.57 gm
+
+This recipe is refreshing, hydrating, and suitable for a young child, making it a great choice for a summer beverage!"
+can you suggest food?,"Based on the provided data, here is a selected recipe that is suitable for a 2-year-old child and is lactose-free:
+
+### Recipe Name: **Minty Watermelon Lemonade**
+
+#### Description:
+Minty Watermelon Lemonade is a refreshing drink made from fresh watermelon and tangy lemons. It's a sweet and sour beverage that is perfect for hot days, providing hydration and a burst of flavor.
+
+#### Ingredients:
+- **Watermelon**: 1 Diced Cup (153.44 gm)
+- **Lemon Juice**: 2 Tbsp (24.16 ml)
+- **Sugar**: 1.5 Tbsp (12.98 gm)
+- **Soda**: 1/2 Cup (104.17 gm)
+- **Black Salt**: 1/4 Tsp (1.29 gm)
+- **Ice Cube**: 2 Cube (20.0 gm)
+- **Water**: 100 ml (for blending)
+
+#### Steps:
+1. Take 1 cup of diced watermelon and add it to a food processor.
+2. Grind the watermelon until smooth, adding water if required.
+3. Strain the juice into a glass.
+4. Add 2 tbsp of lemon juice, 1.5 tbsp of sugar, and 1/4 tsp of black salt to the juice.
+5. Add 1/2 cup of soda and stir well to dissolve the sugar.
+6. Serve chilled with ice cubes.
+
+#### Nutrients Present:
+- **Calories**: 49 kcal
+- **Carbohydrates**: 10.89 gm
+- **Protein**: 0.54 gm
+- **Fat**: 0.23 gm
+- **Fibre**: 0.57 gm
+
+This recipe is not only delicious but also hydrating and nutritious, making it a great choice for a refreshing drink for your child!"
+i need any other recipe,"Sure! Here’s another delightful recipe that is suitable for a 2-year-old child and is lactose-free:
+
+### Recipe Name: **Minty Mango Salad**
+
+#### Description:
+Minty Mango Salad is a vibrant and refreshing dish that combines the sweetness of ripe mangoes with the cooling flavor of mint. This salad is not only colorful but also packed with essential nutrients, making it a perfect side dish or snack for hot summer days. The combination of fresh fruits and herbs provides a delightful taste that kids will love!
+
+#### Ingredients:
+- **Mango**: 1/4 Chopped Cup (49.4 gm)
+- **Orange Carrot**: 1.0 Chopped Tbsp (9.35 gm)
+- **Pudina (Mint)**: 1.0 Chopped Tbsp (0.76 gm)
+- **Lemon Juice**: 1/2 Tsp (2.04 ml)
+- **Salt**: 1/4 Tsp (1.115 gm)
+
+#### Steps:
+1. In a mixing bowl, add 1/4 cup of chopped mango and 1 tbsp of chopped orange carrot.
+2. Add 1 tbsp of chopped mint leaves (pudina) to the bowl.
+3. Squeeze in 1/2 tsp of lemon juice and sprinkle 1/4 tsp of salt over the mixture.
+4. Gently toss all the ingredients together until well combined.
+5. Serve fresh as a light snack or a side dish with meals.
+
+#### Nutrients Present:
+- **Calories**: 56 kcal
+- **Carbohydrates**: 10.73 gm
+- **Protein**: 0.60 gm
+- **Fat**: 0.55 gm
+- **Fiber**: 2.89 gm
+
+This Minty Mango Salad is not only delicious but also a fun way to introduce your child to the flavors of fruits and herbs. Enjoy this healthy treat!"
+can you suggest food?,"Based on the provided data, here is a selected recipe that is suitable for a 2-year-old child and incorporates Nestlé products:
+
+### Recipe Name: **Peanut Butter Banana Smoothie**
+
+#### Description:
+Banana Peanut Butter Smoothie is a refreshing and nutritious drink made by blending ripe bananas with peanut butter. It's a quick and easy way to enjoy the natural sweetness of bananas and kickstart your day. This smoothie is packed with protein and healthy fats, making it a perfect post-workout snack or a delightful breakfast option.
+
+#### Ingredients:
+- **Nestlé A+ Curd**: 1/2 Cup (120.51 gm)
+- **Banana**: 1/4 Slice Cup (41.0275 gm)
+- **Peanut Butter**: 1 Tbsp (14.9 gm)
+- **Honey**: 1 Tsp (10.92 gm)
+- **Cinnamon**: 1/4 Tsp (0.55 gm)
+
+#### Nutritional Information (per serving):
+- **Calories**: 224 kcal
+- **Protein**: 3.17 gm
+- **Fat**: 12.56 gm
+- **Carbohydrates**: 21.47 gm
+- **Fiber**: 1.98 gm
+
+#### Steps:
+1. In a blender, add 1/4 cup sliced banana, 1/2 cup Nestlé A+ Curd, 1 tbsp peanut butter, 1 tsp honey, and 1/4 tsp cinnamon.
+2. Blend until smooth and creamy.
+3. Pour into a glass and serve chilled.
+
+#### Suitable for:
+- **Start Age**: 1 year
+- **End Age**: 2 years
+
+#### Nestlé Product Used:
+- **Nestlé A+ Curd**: A nutritious dairy product that provides essential calcium and protein.
+
+This smoothie is not only delicious but also provides a good balance of nutrients for a growing child. Enjoy!"
+i need other recipe,"Sure! Here’s another delightful recipe that is suitable for a 2-year-old child and is lactose-free:
+
+### Recipe Name: **Minty Watermelon Lemonade**
+
+#### Description:
+Minty Watermelon Lemonade is a refreshing drink that combines the sweetness of fresh watermelon with the tanginess of lemon juice and a hint of mint. This vibrant beverage is perfect for hot summer days, providing hydration and a burst of flavor. It's not only delicious but also packed with nutrients, making it a great choice for your little one!
+
+#### Ingredients:
+- **Watermelon:** 1 Diced Cup (153.44 gm)
+- **Lemon Juice:** 2 Tbsp (24.16 ml)
+- **Sugar:** 1.5 Tbsp (12.98 gm)
+- **Soda:** 1/2 Cup (104.17 gm)
+- **Black Salt:** 1/4 Tsp (1.29 gm)
+- **Ice Cubes:** 2 Cubes (20.0 gm)
+
+#### Steps:
+1. In a blender, add 1 cup of diced watermelon and blend until smooth. If needed, add a little water to help with blending.
+2. Strain the watermelon juice into a glass to remove any pulp.
+3. Add 2 tablespoons of lemon juice, 1.5 tablespoons of sugar, and 1/4 teaspoon of black salt to the watermelon juice. Stir well to combine.
+4. Add 1/2 cup of soda to the mixture and stir gently to mix.
+5. Serve chilled with ice cubes for a refreshing drink.
+
+#### Nutritional Information (per serving):
+- **Calories:** 49 kcal
+- **Carbohydrates:** 10.89 gm
+- **Protein:** 0.54 gm
+- **Fat:** 0.23 gm
+- **Fiber:** 1.29 gm
+
+This Minty Watermelon Lemonade is not only a fun and tasty drink but also a healthy way to keep your child hydrated during the summer. Enjoy this delightful beverage together!"

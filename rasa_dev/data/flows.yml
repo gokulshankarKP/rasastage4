@@ -1,0 +1,104 @@
+flows:
+  Recipe_Suggestion:
+    description: This flow suggests users the recipes based on the age and the fact that whether they are lactose intolerant or not.
+    steps:
+      - id: ask_age
+        collect: age
+        reset_after_flow_ends: false
+      - action: action_check_age
+        next:
+          - if: not slots.age_is_valid
+            then:
+              - action: utter_invalid_age
+              - set_slots:
+                  - age: null
+                next: ask_age
+          - else: 
+              - collect: weight
+                ask_before_filling: true
+              - collect: height
+                ask_before_filling: true
+              - collect: gender
+                ask_before_filling: true
+              - collect: food_category
+                ask_before_filling: true
+              - collect: lactose_intolerant
+                ask_before_filling: true
+              - collect: location
+                ask_before_filling: true
+              - action: action_get_recipe
+              - action: utter_recommended_recipe
+              - id: ask_any_question
+                collect: any_question
+                ask_before_filling: true
+              - action: action_check_goodbye
+                next:
+                  - if: not slots.user_said_goodbye
+                    then:
+                      - action: action_handle_fallback_question
+                      - action: utter_anyother_question_response
+                      - set_slots:
+                          - another_recipe: null
+                          - any_question: null
+                        next: ask_any_question
+                  - else: 
+                      - action: utter_goodbye
+                        next: END
+
+  Recipe_Suggestion_for_several_days :
+    description: This flow suggests users the recipes for certain days or week or month etc ,based on the age and the fact that whether they are lactose intolerant or not.
+    steps:
+      - collect: age_certaindays
+        ask_before_filling: true
+      - collect: weight_certaindays
+        ask_before_filling: true
+      - collect: height_certaindays
+        ask_before_filling: true 
+      - collect: lactose_intolerant_certaindays
+        ask_before_filling: true
+      - collect: no_of_days
+        ask_before_filling: true
+      - action: action_certaindays_plan
+      - action: utter_certaindays_output
+      - id: ask_any_question_certaindays
+        collect: any_question_certaindays
+        ask_before_filling: true
+      - action: action_check_goodbye_certaindays
+        next:
+          - if: not slots.user_said_goodbye_certaindays
+            then:
+              - action: action_certaindays_fallback_question
+              - action: utter_certaindays_question_response
+              
+              - set_slots:
+                  - certaindays_another_recipe: null
+                  - any_question_certaindays: null
+                next: ask_any_question_certaindays
+          - else: 
+              - action: utter_goodbye_certaindays
+                next: END
+
+       
+
+
+
+
+      
+          # - if: slots.user_said_goodbye
+          #   then:
+          #     - action: utter_goodbye
+          #       next: END
+          # - else:
+          #     - action: action_handle_fallback_question
+          #     - action: utter_anyother_question_response
+          #     - set_slots:
+          #         - another_recipe: null
+          #     - set_slots:
+          #         - any_question: null
+          #       next: fallback_start
+
+
+
+              
+
+

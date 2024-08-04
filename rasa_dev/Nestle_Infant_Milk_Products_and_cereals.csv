@@ -1,0 +1,28 @@
+Product Name,Price (INR),start_age_year,end_age_year,product
+"NESTLE? LACTOGEN, 400g (BIB) -6-12 months",465,0.5,1,milk
+"NESTLE? LACTOGEN, 400g (BIB)-18-24months",460,1.5,2,milk
+"NESTLE? LACTOGEN, 400g (BIB)-12-18 months",460,1,1.5,milk
+"NESTLE? LACTOGEN, 400g (BIB)-Upto 6 months",475,0,0.5,milk
+NESTLE? NAN LO-LAC (400g Bag-in-Box),650,1,2,milk
+"NESTLE? LACTOGEN 1, 400g (Tin)",495,1,2,milk
+"NESTLE? NAN PRO Bag-in-Box, 400gm Stage 3: 12-18 months",805,1,1.5,milk
+"NESTLE? NAN PRO Bag-in-Box, 400g-Stage 4: 18-24 months",805,1.5,2,milk
+NESTLE? NAN EXCELLAPRO-12-24 months,930,1,2,milk
+NESTLE? NAN EXCELLAPRO-Upto 6 months,955,0,0.5,milk
+NESTLE? NAN EXCELLAPRO-6-12 months,930,0.5,1,milk
+"NESTLE? NAN PRO Bag-in-Box, 400g-Stage 2: 6-12 months",825,0.5,1,milk
+"NESTLE? NAN PRO Bag-in-Box, 400g-Stage 1: Upto 6 months",825,0,0.5,milk
+"NESTLÉ CERELAC - Wheat, Apple & Cherry",310,0.5,2,cereals
+NESTLÉ CERELAC - Wheat & Apple,275,0.5,2,cereals
+NESTLÉ CERELAC - Wheat-Rice & Fruit,314,0.8,2,cereals
+NESTLÉ CERELAC - 5 Grains & Fruit,329,1.5,2,cereals
+NESTLÉ CERELAC - 5 Grains & Vegetables,329,1.5,2,cereals
+NESTLÉ CERELAC - Wheat,250,0.5,2,cereals
+"NESTLÉ CERELAC - Multigrain, Dal & Vegetables",322,1,2,cereals
+NESTLÉ CERELAC - Rice,255,0.5,2,cereals
+NESTLÉ CERELAC - Khichdi with Vegetables,300,0.5,2,cereals
+"NESTLÉ CERELAC - Wheat, Apple & Carrot",265,0.5,2,cereals
+NESTLÉ CERELAC - Ragi & Apple,310,0.5,2,cereals
+NESTLÉ CERELAC - Wheat-Rice & Veg,314,1,2,cereals
+"NESTLÉ CERELAC - Wheat, Honey & Dates",314,1,2,cereals
+NESTLÉ CERELAC - Multigrain & Fruit,322,1,2,cereals

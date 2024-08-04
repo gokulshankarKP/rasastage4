@@ -1,0 +1,156 @@
+Unnamed: 0,description,Recipe_name,similar_recipe,best_pair,ingredient,veg_or_nonveg,carbo,kcal,protein,fat,fibre,serving_material,serving_size,preparation_time,servings,lacto,steps,age,categories
+0,"Pineapple Cucumber Cooler is a cooling, wonderful summertime beverage made with fresh cucumbers & pineapple. It is a tasty, flavourful & is extremely easy to make.",Pineapple Cucumber Cooler,"Cheesy Vegetable Roll
+20 mins
+Tofu Chikoo Smoothie
+10 mins
+Dal Kachori With Dates Chutney
+20 mins
+Turkish Lokum Roll
+20 mins
+Dudhi Bateta Sabji
+10 mins
+Pumpkin Cheese Burst Paratha Pizza
+30 mins","gapTofu Sweet Potato Desi Burger
+The Tofu Sweet Potato Desi Burger is a crunchy, protein-rich, energy-dense burger with a healthy twi...
+354 calories
+15 mins
+No rategapZucchini Curd Dip
+Zucchini Curd Dip is a healthy dip with an earthy flavour that combines the freshness of zucchini wi...
+8 calories
+5 mins
+No rategapApple And Date Milkshake
+Enjoy the refreshing blend of crisp apples and sweet dates with this delightful milkshake. Perfectly...
+151 calories
+7 mins
+No rate","Pineapple
+1/4 Diced Cup (38.81 gm)
+Cucumber
+1/2 Diced Cup (36.345 gm)
+Lemon Juice
+1 Tsp (4.08 ml)
+Honey
+2 Tsp (21.84 gm)
+Water
+50 Ml (50.0 ml)
+Ice Cube
+2 Cube (20.0 gm)",veg  ,20.88,88,0.29,0.09,1.98,1 Medium Glass ,160.0 ml,10 mins,1,0,"Step 1
+In a grinder add 1/4th cup diced cucumber,1/4th cup diced pineapple,1 tsp lemon juice,2 tsp honey, water as required,2 ice cubes, and grind it nicely. Step 2
+Strain with Strainer and Serve.",2,Midmorning
+1,"Parsley Pineapple Pomegranate Raita is a refreshing yogurt-based dish featuring a blend of parsley, sweet pineapple, and tangy pomegranate seeds. This low-fat recipe is both delightful and healthy.",Parsley Pineapple Pomegranate Raita,"Kashmiri Tea
+10 mins
+Drumstick Coconut Soup
+15 mins
+Vegetable Stew In Coconut
+10 mins
+Chicken Tandoori
+25 mins
+Zucchini And Paneer Bhurji
+15 mins
+Lemon Ginger Cake Homemade
+25 mins","gapBean Poppers
+Bean Poppers are cheesy and gooey on the inside and crispy on the outside, making them a delectable ...
+148 calories
+20 mins
+No rategapHung Curd Garlic Dip
+Hung Curd Garlic Dip is a creamy, light, and smooth dip and is a healthy alternative to those fat-fi...
+10 calories
+10 mins
+No rategapPineapple Dragon Fruit Smoothie
+A vibrant and vital Pineapple Dragon Fruit Smoothie is a nutritious dish packed with a combination o...
+166 calories
+7 mins
+No rate","Parsley
+1 Chopped Tsp (0.37 gm)
+Black Salt
+1/8 Tsp (0.62 gm)
+Sugar
+1/2 Powder Tbsp (5.55 gm)
+Pomegranate
+1 Tbsp (10.82 gm)
+Pineapple
+1 Chopped Tbsp (9.76 gm)
+Nestl� A+ Curd
+1/4 Cup (60.255 gm)",veg  ,10.07,72,1.78,2.57,0.69,1 Small Bowl ,92.0 gm,10 mins,1,1,"Step 1
+In a mixing bowl add 1/4th cup Nestl� A+ Curd,1 tbsp chopped pineapple,1 tbsp pomegranate seeds,1/2 tbsp powder sugar,1/8th tsp black salt,1/2 tsp chopped parsley and combine all together. Step 2
+Serve.",2,Dinner
+2,"Watermelon Thandai is a yummy drink made from juicy watermelons and special spices like cardamom and saffron. It's a cool, refreshing drink perfect for hot days.",Watermelon Thandai,"Ragi Pizza
+20 mins
+Gatta Curry
+20 mins
+Bajra Moong Pudla
+30 mins
+Halim Kheer
+10 mins
+Kidney Beans Idli
+15 mins
+Dudhi Dhokla
+30 mins","gapPad Thai Rice Noodles (With Tofu And Vegetables)
+Pad Thai noodles with tofu and vegetables are gluten-free and exquisitely flavourful with hints of s...
+197 calories
+10 mins
+No rategapVeg Thai Curry (Green)
+A vibrant medley of fresh vegetables bathed in a creamy, aromatic green curry sauce, the Veg Thai Gr...
+79 calories
+20 mins
+No rategapCaramel Custard
+The classic caramel custard, with the goodness of caramelized sugar, is a delectable dessert post me...
+131 calories
+15 mins
+No rate","Watermelon Seeds
+1/2 Tbsp (5.93 gm)
+Khas Khas
+1 Tsp (2.8 gm)
+Green Elaichi
+1/4 Powder Tsp (0.5 gm)
+Almond
+1 Chopped Tbsp (10.8 gm)
+Pista
+1 Chopped Tbsp (8.14 gm)
+Saunf
+1 Tbsp (7.71 gm)
+Nestl� A+ Milk
+1 Cup (204.48 ml)
+Watermelon
+1 Chopped Cup (157.18 gm)
+Black Pepper
+4 Number (0.36 gm)
+Sugar
+1.5 Powder Tbsp (11.1 gm)",veg  ,13.39,159,5.39,9.41,2.87,1 Medium Glass ,160.0 ml,10 mins,1,1,"Step 1
+For Thandai Powder
+Add 2 pista, 2 no. cashewnut, 2 no. almond, 1 tsp saunf, 1/2 tbsp watermelon seeds, 1/2 tsp khas Khas, 2 no. black pepper, 2 no. green elaichi, 4 no.dried rose petals, 4 Strand Kesar and blend Well. Step 2
+In a Blender Step 3
+Take 1 cup Diced Watermelon, 1/4 cup Nestl� A+ Milk, thandai powder and blend well",2,Eveningsnacks
+3,This Cardamom Cinnamon Honey Nestl� A+ Milk is a soothing and flavorful Nestl� A+ Milk based beverage is easy to make and a great bed time drink.,Cardamom Cinnamon Honey Milk,"Poha Chivda(Homemade)
+15 mins
+Bajra Dal Khichdi with Kadhi
+15 mins
+Roasted Garlic Dip
+10 mins
+Avocada Coconut Tzatziki
+10 mins
+Caprese Pasta Salad
+15 mins
+Parsley Pomegranate Quinoa Bowl
+15 mins","gapLasooni Palak Dal
+The goodness of spinach is balanced with garlic and strong spices that enhance its flavour, taste, a...
+110 calories
+7 mins
+No rategapBrown Rice
+Brown rice is a nutrient-dense food. It is a high-fiber whole grain that's gluten-free and versatile...
+109 calories
+25 mins
+No rategapSoya Keema
+Soya keema is a vegan and protein-packed meal made with sauteed soya granules, chopped onions, tomat...
+104 calories
+15 mins
+No rate","Nestl� A+ Milk
+1 Glass (204.48 ml)
+Honey
+1 Tbsp (28.03 gm)
+Cinnamon
+1/4 Tsp (0.55 gm)
+Green Elaichi
+1/2 Powder Tsp (1.0 gm)",veg  ,22.77,166,3.77,6.28,0.36,1 Medium Glass ,160.0 ml,15 mins,1,1,"Step 1
+Heat 1 cup Nestlé A+ Milk, add 1/2 tsp powdered cardamom, 1/4th tsp cinnamon, 1 tbsp honey. Step 2
+Bring it to a boil. Step 3
+Serve hot.",2,Eveningsnacks
